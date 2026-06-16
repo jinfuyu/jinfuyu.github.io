@@ -1,0 +1,5 @@
+
+# local dependencies and build outputs
+node_modules/
+.astro/
+dist/
